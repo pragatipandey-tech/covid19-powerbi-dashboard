@@ -44,12 +44,6 @@ The dashboard includes the following visuals:
 
 ---
 
-## Dashboard Preview
-
-(Add screenshot here after uploading)
-
----
-
 ## Insights from the Dashboard
 
 Some insights obtained from the analysis include:
