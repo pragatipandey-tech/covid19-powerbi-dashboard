@@ -1,84 +1,93 @@
-# COVID-19 Power BI Dashboard
+# 📊 COVID-19 Power BI Dashboard
 
-This project presents an interactive **COVID-19 analytics dashboard** created using Power BI.
-The dashboard analyzes global pandemic data to identify trends, compare country-level statistics, and provide meaningful insights through data visualization.
+## 📌 Project Overview
 
-The goal of this project is to demonstrate **data analysis, dashboard design, and business intelligence skills** using real-world datasets.
-
----
-
-## Tools & Technologies
-
-* Microsoft Power BI
-* Data Visualization
-* Data Cleaning
-* CSV Dataset
+This project presents an interactive COVID-19 dashboard built using Microsoft Power BI.
+The dashboard helps visualize key insights such as total cases, total deaths, and trends over time.
 
 ---
 
-## Dataset Source
+## 🎯 Objectives
 
-The dataset used in this project is based on publicly available COVID-19 statistics provided by organizations such as the World Health Organization and open datasets from Kaggle.
-
----
-
-## Dashboard Features
-
-* Global COVID-19 case tracking
-* Country-wise analysis of confirmed cases
-* Death and recovery statistics
-* Time-series trend of cases
-* Interactive filters for better analysis
+* Analyze global COVID-19 data
+* Track total confirmed cases and deaths
+* Understand trends using time-series visualization
+* Build an interactive and clean dashboard
 
 ---
 
-## Key Visualizations
+## 📊 Current Features
 
-The dashboard includes the following visuals:
-
-* KPI Cards for total cases, deaths, and recoveries
-* Line chart showing case trends over time
-* Map visualization for global distribution
-* Bar chart comparing top affected countries
-* Interactive slicers for country and date filtering
+* ✅ Total Cases KPI Card
+* ✅ Total Deaths KPI Card
+* ✅ COVID-19 Cases Over Time (Line Chart)
 
 ---
 
-## Insights from the Dashboard
+## 🚧 Work in Progress
 
-Some insights obtained from the analysis include:
+The dashboard is currently under development. Upcoming features include:
 
-* Certain countries experienced significantly higher infection rates.
-* Case trends varied across different time periods.
-* Recovery rates improved as vaccination and medical responses increased.
-
----
-
-## Project Structure
-
-covid19-powerbi-dashboard
-│
-├── dataset.csv
-├── covid_dashboard.pbix
-├── dashboard_preview.png
-└── README.md
+* 🔄 Top Countries by Cases (Bar Chart)
+* 🌍 Map Visualization (Geographical Analysis)
+* 🎨 Improved UI/UX and formatting
 
 ---
 
-## Skills Demonstrated
+## 🛠️ Tools & Technologies Used
 
-* Data Analysis
-* Data Visualization
-* Dashboard Development
-* Business Intelligence
+* Microsoft Power BI Desktop
+* Data Cleaning & Transformation (Power Query)
+* Data Visualization Techniques
 
 ---
 
-## Future Improvements
+## 📂 Project Structure
 
-* Add vaccination analysis
-* Include continent-wise comparison
-* Publish dashboard to Power BI Service for live interaction
+```
+📁 COVID19-PowerBI-Dashboard
+│── 📄 covid_dashboard.pbix
+│── 📄 README.md
+│── 📁 data
+```
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file
+2. Open it using Microsoft Power BI Desktop
+3. Explore the dashboard and interact with visuals
+
+---
+
+## 📅 Progress Log
+
+* ✔ Data collection and initial setup
+* ✔ Data cleaning
+* ✔ Added KPI cards (Total Cases, Total Deaths)
+* ✔ Added line chart (Cases Over Time)
+* 🔄 More visuals coming soon...
+
+---
+
+## 📌 Future Improvements
+
+* Add more interactive filters
+* Enhance dashboard design
+* Include more insights and analytics
+
+---
+
+## 🤝 Contribution
+
+This is a personal learning project, but suggestions and feedback are welcome!
+
+---
+
+## ⭐ Acknowledgement
+
+Dataset sourced from Kaggle.
 
 ---
 
