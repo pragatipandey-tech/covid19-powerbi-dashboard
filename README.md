@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project presents an interactive COVID-19 dashboard built using Microsoft Power BI.
-The dashboard helps visualize key insights such as total cases, total deaths, and trends over time.
+It provides key insights into global pandemic trends through data visualization and analytics.
 
 ---
 
@@ -11,33 +11,24 @@ The dashboard helps visualize key insights such as total cases, total deaths, an
 
 * Analyze global COVID-19 data
 * Track total confirmed cases and deaths
-* Understand trends using time-series visualization
-* Build an interactive and clean dashboard
+* Identify top affected countries
+* Understand trends over time
 
 ---
 
-## 📊 Current Features
+## 📊 Features
 
-* ✅ Total Cases KPI Card
-* ✅ Total Deaths KPI Card
-* ✅ COVID-19 Cases Over Time (Line Chart)
-
----
-
-## 🚧 Work in Progress
-
-The dashboard is currently under development. Upcoming features include:
-
-* 🔄 Top Countries by Cases (Bar Chart)
-* 🌍 Map Visualization (Geographical Analysis)
-* 🎨 Improved UI/UX and formatting
+* ✅ **Total Cases KPI** – Displays overall confirmed cases worldwide
+* ✅ **Total Deaths KPI** – Displays total number of deaths
+* ✅ **Cases Over Time (Line Chart)** – Shows growth trend of COVID-19 cases
+* ✅ **Top Countries by Cases (Bar Chart)** – Highlights most affected countries
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 
 * Microsoft Power BI Desktop
-* Data Cleaning & Transformation (Power Query)
+* Power Query (Data Cleaning & Transformation)
 * Data Visualization Techniques
 
 ---
@@ -45,43 +36,58 @@ The dashboard is currently under development. Upcoming features include:
 ## 📂 Project Structure
 
 ```
-📁 COVID19-PowerBI-Dashboard
+📁 covid19-powerbi-dashboard
 │── 📄 covid_dashboard.pbix
 │── 📄 README.md
 │── 📁 data
+│    └── raw_dataset.csv
 ```
+
+---
+
+## 📸 Dashboard Preview
+
+*(Add screenshot here after final design)*
 
 ---
 
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
-2. Open it using Microsoft Power BI Desktop
-3. Explore the dashboard and interact with visuals
+2. Open using Microsoft Power BI Desktop
+3. Explore the interactive dashboard
 
 ---
 
 ## 📅 Progress Log
 
-* ✔ Data collection and initial setup
-* ✔ Data cleaning
+* ✔ Dataset collection from Kaggle
+* ✔ Data cleaning and preprocessing
 * ✔ Added KPI cards (Total Cases, Total Deaths)
-* ✔ Added line chart (Cases Over Time)
-* 🔄 More visuals coming soon..
+* ✔ Added time-series analysis (Cases Over Time)
+* ✔ Added Top Countries bar chart
 
 ---
 
-## 📌 Future Improvements
+## 🚧 Upcoming Improvements
 
-* Add more interactive filters
-* Enhance dashboard design
-* Include more insights and analytics
+* 🌍 Map visualization (geographical insights)
+* 🎨 UI/UX improvements (colors, layout, styling)
+* 📊 Additional filters and interactivity
+
+---
+
+## 📌 Key Insights (To be added)
+
+* Rapid growth trend observed over time
+* Certain countries dominate total case counts
+* Data highlights global spread patterns
 
 ---
 
 ## 🤝 Contribution
 
-This is a personal learning project, but suggestions and feedback are welcome!
+This is a personal learning project. Suggestions and feedback are welcome!
 
 ---
 
@@ -90,7 +96,3 @@ This is a personal learning project, but suggestions and feedback are welcome!
 Dataset sourced from Kaggle.
 
 ---
-
-## Pragati Pandey
-Data Science Student
-(LNCTE Bhopal)
