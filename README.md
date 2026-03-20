@@ -67,7 +67,7 @@ The dashboard is currently under development. Upcoming features include:
 * ✔ Data cleaning
 * ✔ Added KPI cards (Total Cases, Total Deaths)
 * ✔ Added line chart (Cases Over Time)
-* 🔄 More visuals coming soon...
+* 🔄 More visuals coming soon..
 
 ---
 
