@@ -78,20 +78,21 @@ dashboard_preview.png
 
 📁 Project Structure
 
+```
 covid19-powerbi-dashboard/
 │
 ├── data/
 │   └── raw_dataset.csv
 │
 ├── dashboard/
-│   └── covid19-dashboard.pbix
+│   └── covid19_dashboard.pbix
 │
 ├── images/
 │   └── dashboard_preview.png
 │
-└── README.md
-
----
+├── README.md
+└── .gitignore
+```
 
 📊 Key Insights
 
