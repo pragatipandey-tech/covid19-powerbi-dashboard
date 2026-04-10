@@ -70,7 +70,7 @@ Displayed using large KPI cards for quick readability.
 
 ## 🖼️ Dashboard Preview
 
-<img width="2880" height="1800" alt="dashboard_preview" src="C:\Users\prpa2\OneDrive\Desktop\covid19-powerbi-dashboard\imagesdashboardpreview.png\imagesdashboard_preview.png" />
+![Dashboard Preview]("C:\Users\prpa2\OneDrive\Desktop\covid19-powerbi-dashboard\imagesdashboardpreview.png\imagesdashboard_preview.png")
 
 
 ---
