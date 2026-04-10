@@ -70,7 +70,8 @@ Displayed using large KPI cards for quick readability.
 
 ## 🖼️ Dashboard Preview
 
-"C:\Users\prpa2\OneDrive\Pictures\Screenshots\Screenshot (62).png"
+![Dashboard Preview](images/dashboard_preview.png)
+
 ---
 
 ## 🛠️ Tools & Technologies
