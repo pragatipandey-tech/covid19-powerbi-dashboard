@@ -1,82 +1,96 @@
-📊 COVID-19 Global Analytics Dashboard
+# 📊 COVID-19 Global Analytics Dashboard
 
-A professionally designed Power BI dashboard that delivers a comprehensive analysis of global COVID-19 data through interactive and insightful visualizations.
-
----
-
-🧭 Overview
-
-This project demonstrates the use of data visualization and business intelligence techniques to analyze pandemic data.
-The dashboard is designed to help users quickly understand trends, compare countries, and explore the geographical spread of COVID-19.
+A modern and interactive **Power BI dashboard** designed to analyze global COVID-19 data using clean UI, KPI-driven insights, and effective visual storytelling.
 
 ---
 
-🎯 Objectives
+## 🧭 Overview
 
-   ->Analyze global COVID-19 case trends over time.
+This project presents a **dark-themed analytics dashboard** that highlights key pandemic insights through:
 
-   ->Identify the most affected countries.
+- KPI cards for quick insights  
+- Time-based trend analysis  
+- Country-level comparisons  
+- Geographical visualization  
 
-   ->Visualize geographical distribution of cases.
-
-   ->Present key metrics in a clear and concise format.
-
----
-
-📌 Dashboard Highlights
-
-📈 Trend Analysis
-
-   ->Displays the growth of total COVID-19 cases over time.
-
-   ->Helps identify rapid increases and patterns.
-
-🌍 Geospatial Visualization
-
-   ->Interactive world map showing case distribution across countries.
-
-   ->Enables quick identification of high-impact regions.
-
-📊 Country-wise Comparison
-
-   ->Bar chart highlighting top countries by total cases.
-
-   ->Supports comparative analysis.
-
-🔢 Key Performance Indicators (KPIs)
-
-   ->Total Cases: 4B+
-
-   ->Total Deaths: 172M+
+The dashboard is structured to provide **clear and fast decision-making insights**.
 
 ---
 
-🖼️ Dashboard Preview
+## 🎯 Objectives
 
-<img width="2880" height="1800" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/6ebf695c-c753-4144-9918-59e1c7aa8345" />
-
-dashboard_preview.png
+- Analyze global COVID-19 case trends over time  
+- Identify the most affected countries  
+- Visualize worldwide spread using maps  
+- Present key metrics in a clear format  
 
 ---
 
-🛠️ Tools & Technologies
+## 📌 Dashboard Features
+
+### 🔢 Key Performance Indicators (KPIs)
+
+- **Total Cases:** 4 Billion+  
+- **Total Deaths:** 172 Million+  
+
+Displayed using large KPI cards for quick readability.
+
+---
+
+### 📈 Trend Analysis
+
+- Area chart showing growth of COVID-19 cases (2019–2020)  
+- Helps identify rapid increase patterns  
+
+---
+
+### 🌍 Geographical Analysis
+
+- Interactive world map showing case distribution  
+- Highlights global hotspots  
+
+---
+
+### 📊 Country-wise Comparison
+
+- Bar chart showing top countries by total cases  
+- Includes: United States, Brazil, India, Russia, etc.  
+
+---
+
+## 🎨 Dashboard Design Highlights
+
+- Dark theme for better visibility  
+- Clean KPI card layout  
+- Centered dashboard title  
+- Minimal and professional design  
+- Proper spacing and alignment  
+
+---
+
+## 🖼️ Dashboard Preview
+
+"C:\Users\prpa2\OneDrive\Pictures\Screenshots\Screenshot (62).png"
+---
+
+## 🛠️ Tools & Technologies
 
 | Tool        | Purpose                        |
-| ----------- | ------------------------------ |
-| Power BI    | Dashboard creation             |
-| Power Query | Data cleaning & transformation |
-| DAX         | Data modeling & calculations   |
+|-------------|-------------------------------|
+| Power BI    | Dashboard development         |
+| Power Query | Data cleaning & transformation|
+| DAX         | Data modeling & calculations  |
 
 ---
 
-📂 Dataset
-   Dataset used: COVID-19 dataset from Kaggle
+## 📂 Dataset
 
-👉 https://www.selectdataset.com/dataset/1ec44e68e036704c2ac58315ae446ba0?utm_source=chatgpt.com
+- Source: COVID-19 dataset from Kaggle  
+- Contains global case and death statistics  
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 covid19-powerbi-dashboard/
@@ -94,57 +108,47 @@ covid19-powerbi-dashboard/
 └── .gitignore
 ```
 
-📊 Key Insights
+---
 
-  ->COVID-19 cases show a strong upward trend over time.
+## 📊 Key Insights
 
-  ->A small number of countries contribute significantly to global cases.
-
-  ->Geographical distribution reveals concentrated hotspots.
+- COVID-19 cases show a strong upward trend  
+- Few countries contribute to most global cases  
+- Spread is concentrated in specific regions  
 
 ---
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
-  ->Integration of vaccination data
-
-  ->Addition of recovery and active case metrics
-
-  ->Advanced filters and slicers for interactivity
-
-  ->Custom theme and improved UI/UX
+- Add vaccination data  
+- Include recovery and active cases  
+- Add advanced filters/slicers  
+- Improve UI with custom themes  
 
 ---
 
-📌 Learning Outcomes
+## 📌 Learning Outcomes
 
-   ->Gained hands-on experience with Power BI
-
-   ->Improved data cleaning and transformation skills
-
-   ->Developed ability to design interactive dashboards
-
-   ->Learned to present data-driven insights effectively
+- Gained hands-on experience with Power BI  
+- Improved data transformation skills  
+- Learned DAX calculations  
+- Built interactive dashboards  
 
 ---
 
-🤝 Connect
+## 🤝 Connect
 
-   GitHub: https://github.com/pragatipandey-tech
-
-   LinkedIn: (https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BMVUu2jRhSd2x%2BIdbX3yVUw%3D%3D)
-
+- GitHub: https://github.com/pragatipandey-tech  
+- LinkedIn: (Add your public LinkedIn profile link)
 
 ---
 
-🤝 Contribution
+## 🤝 Contribution
 
-   This is a personal learning project. Suggestions and feedback are welcome!
-
----
-
-⭐ Acknowledgement
-
-   Dataset sourced from Kaggle.
+This is a personal project. Feedback and suggestions are welcome!
 
 ---
+
+## ⭐ Acknowledgement
+
+Dataset sourced from Kaggle.
