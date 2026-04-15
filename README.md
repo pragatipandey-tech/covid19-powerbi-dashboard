@@ -86,8 +86,8 @@ Displayed using large KPI cards for quick readability.
 
 ## 📂 Dataset
 
-- Source: COVID-19 dataset from Kaggle  
-- Contains global case and death statistics  
+- Source: COVID-19 dataset from Kaggle.  
+- Contains global case and death statistics.  
 
 ---
 
