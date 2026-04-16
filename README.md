@@ -54,7 +54,7 @@ Displayed using large KPI cards for quick readability.
 ### 📊 Country-wise Comparison
 
 - Bar chart showing top countries by total cases  
-- Includes: United States, Brazil, India, Russia, etc.  
+- Includes: United States, Brazil, India, Russia, etc
 
 ---
 
