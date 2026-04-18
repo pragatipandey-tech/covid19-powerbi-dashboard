@@ -137,13 +137,6 @@ covid19-powerbi-dashboard/
 
 ---
 
-## 🤝 Connect
-
-- GitHub: https://github.com/pragatipandey-tech  
-- LinkedIn: (Add your public LinkedIn profile link)
-
----
-
 ## 🤝 Contribution
 
 This is a personal project. Feedback and suggestions are welcome!
